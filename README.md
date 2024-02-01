@@ -23,7 +23,7 @@
 
 <h2 align="center">NCC Website for CREDENZ TECH DAYS</h2>
 
-  <p align="center">
+  <p >
     • Developed an Online Coding Judge platform used by 600+ contestants with
 the objective of hosting coding contests and dynamically calculating
 real-time rankings based on contestant submissions.
@@ -54,10 +54,12 @@ lastly hosted the project on AWS EC2 instances with a load balancerrunning
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Coding Page][product-screenshot1]]
-[![Leaderboard Page][product-screenshot2]]
-[![Submissions Page][product-screenshot3]]
-[![Testcases Page][product-screenshot4]]
+[![Run Workflow][product-screenshot1]]
+[![Submission Workflow][product-screenshot2]]
+[![Coding Page][product-screenshot3]]
+[![Leaderboard Page][product-screenshot4]]
+[![Submissions Page][product-screenshot5]]
+[![Testcases Page][product-screenshot6]]
 
 ### Built With
 
