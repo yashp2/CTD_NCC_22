@@ -38,7 +38,7 @@ Login/Signups , Questions, Code-Runners , Submissions, Leaderboard etc.
 submit Contestant’s code.
     <br />
 • Docker to containerize the project, Judge0 as code execution engine, and
-lastly hosted the project on AWS EC2 instances with a load balancerrunning
+lastly hosted the project on AWS EC2 instances with load balancers for balanced load across the servers.
     <br />
 <!--     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br /> -->
