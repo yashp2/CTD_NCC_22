@@ -23,7 +23,7 @@
 
 <h2 align="center">NCC Website for CREDENZ TECH DAYS</h2>
 
-  <p >
+  <p align = "left" >
     • Developed an Online Coding Judge platform used by 600+ contestants with
 the objective of hosting coding contests and dynamically calculating
 real-time rankings based on contestant submissions.
@@ -54,12 +54,12 @@ lastly hosted the project on AWS EC2 instances with a load balancerrunning
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Run Workflow][product-screenshot1]]
-[![Submission Workflow][product-screenshot2]]
-[![Coding Page][product-screenshot3]]
-[![Leaderboard Page][product-screenshot4]]
-[![Submissions Page][product-screenshot5]]
-[![Testcases Page][product-screenshot6]]
+![Run Workflow][product-screenshot1]
+![Submission Workflow][product-screenshot2]
+![Coding Page][product-screenshot3]
+![Leaderboard Page][product-screenshot4]
+![Submissions Page][product-screenshot5]
+![Testcases Page][product-screenshot6]
 
 ### Built With
 
@@ -121,7 +121,7 @@ Project Link: [https://github.com/yashp2/CTD-NCC-FRONTEND-22]
 [linkedin-url]: https://www.linkedin.com/in/yash-patil-9b4650205/
 [product-screenshot1]: Screenshots/OJ_Run_Workflow.png
 [product-screenshot2]: Screenshots/OJ_Submission_Workflow.png
-[product-screenshot3]: Screenshots/Coding.png
+[product-screenshot3]: Screenshots/coding.png
 [product-screenshot4]: Screenshots/leaderboard.png
 [product-screenshot5]: Screenshots/submissions.png
 [product-screenshot6]: Screenshots/testcases.png
